@@ -2,7 +2,7 @@
 - 👀 I’m interested in blockchain technologies
 - 🌱 I’m currently learning machine learning and solidity programming
 - 💞️ I’m looking to collaborate on DApps
-- 📫 How to reach me ...
+- 📫 How to reach me viboognesh@live.com
 
 <!---
 viboognesh/viboognesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
